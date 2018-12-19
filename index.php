@@ -129,11 +129,6 @@
   <main>
     <h1 class="intro">Indisponibilidade do VIA+</h1>
     <p><strong>Estamos atuando para normalização do Sistema.</strong> </p>
-    <p>
-      Durante esse período, será necessário que você utilize o <strong>PCOMM</strong> para realizar as suas vendas.
-      Assim que o VIA+ for reestabelecido, as filiais serão comunicadas por <strong>SMS</strong> e <strong>Whatsapp</strong>.
-    </p>
-    <h1>novo</h1>
     <h1><?php echo $_ENV['mensagem_comunicado'] ?></h1>
     <section>
       <svg id="logo-via-mais" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 311.5 104.5">
